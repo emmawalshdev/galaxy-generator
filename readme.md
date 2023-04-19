@@ -14,5 +14,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 
+```
 ## View the App
 [View the app!](https://galaxy-generator-gold-five.vercel.app/)
+
