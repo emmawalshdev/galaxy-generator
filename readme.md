@@ -1,4 +1,4 @@
-# Three.js Journey
+# Galaxy Generator - Threejs app
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+```
+## View the App
+[View the app!](https://galaxy-generator-gold-five.vercel.app/)
